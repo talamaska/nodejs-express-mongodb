@@ -1,0 +1,35 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.google-login{
+    
+}
+.google-login img{
+    width: 40px;
+    height: 40px;
+}
+
+.sitename{
+    font-family: Helvetica,Arial,sans-serif;
+    padding-left: 10px;
+    padding-top: 11px;
+    font-weight: bold;
+}
+
+.nav > li > a.hide{
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
